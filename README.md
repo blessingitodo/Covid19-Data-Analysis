@@ -19,7 +19,7 @@ This project presents an analytical exploration of COVID-19 global data trends u
 4. **Tools & Libraries**:
    - Libraries used include:
      - **Pandas**: Data manipulation.
-     - **Matplotlib/Seaborn**: Static visualizations.
+     - **Matplotlib/Seaborn**: Static and interactive (using %matplotlib widget) visualizations.
      - **Plotly**: Interactive dashboards.
    - Integrates modules for datetime processing to track time-based trends.
 
